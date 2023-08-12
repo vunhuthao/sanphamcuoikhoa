@@ -1,0 +1,103 @@
+.photo{
+   width: 300px;
+    padding: 0px 12px 50px 9px;
+    text-align: center;
+}
+.photo img{
+    width: 100%;
+}
+.photo h3 {
+    font-weight: 400;
+    font-size: 24px;
+    width: 100%;
+    padding: 8px 0px 16px 0px;
+}
+.photo p{
+    font-size: 15px;
+    line-height: 1.5;
+}
+.heading {
+    text-align:center;
+}
+.list1{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    width: 90px;
+}
+.nav{
+    background-color: rgb(27, 88, 163);
+    display: flex;
+    padding: 8px;
+    width:100%;
+    position: fixed;
+    justify-content: center; 
+}
+.nav-item{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.nav-item1{
+    color: rgb(246, 100, 15);
+    text-decoration: none;
+    padding: 10px;
+    font-size:large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.nav-item:hover{
+    background-color: rgb(161, 55, 55)
+}
+.button2{
+    width:10rem;
+    height: 2rem;
+    border-radius: 3rem;
+    background-color: rgb(150, 180, 32); 
+}
+.button1{
+    width:10rem;
+    height: 2rem;
+    border-radius: 3rem;
+    background-color: rgb(26, 234, 241); 
+}
+.button3{
+    width:10rem;
+    height: 2rem;
+    border-radius: 3rem;
+    background-color: rgb(10, 110, 233);
+}
+body{
+    background-color:rgb(230, 230, 238);
+}
+.pa{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading{
+    color:red;
+}
+.button3:hover{
+    width:12rem;
+    height:3rem;
+    border-radius: 3rem;
+    background-color: rgb(10, 110, 233);
+    font-size:1rem;
+}
+.button2:hover{
+    width:12rem;
+    height:3rem;
+    border-radius: 3rem;
+    background-color: rgb(150, 180, 32); 
+    font-size:1rem;
+}
+.button1:hover{
+    width:12rem;
+    height:3rem;
+    border-radius: 3rem;
+    background-color: rgb(26, 234, 241); 
+    font-size:1rem;
+}

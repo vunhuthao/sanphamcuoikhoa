@@ -1,0 +1,38 @@
+.nav{
+    background-color: rgb(27, 88, 163);
+    display: flex;
+    padding: 8px;
+    width:100%;
+  
+    position: fixed;
+    justify-content: center; 
+}
+.nav-item{
+    color: white;
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
+}
+.nav-item1{
+    color: rgb(246, 100, 15);
+    text-decoration: none;
+    display: block;
+    padding: 10px;
+    font-size:large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+.nav-item:hover{
+    background-color: rgb(161, 55, 55)
+}
+.body {
+    width: 60rem;
+    margin: auto;
+    font-size: 15px;
+}
+.ND{
+    font-size: 25px;
+}

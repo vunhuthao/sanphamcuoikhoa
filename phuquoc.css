@@ -1,0 +1,65 @@
+.nav{
+    background-color: rgb(27, 88, 163);
+    display: flex;
+    padding: 8px;
+    width:100%;
+    position: fixed;
+    justify-content: center; 
+}
+.nav-item{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.nav-item1{
+    color: rgb(246, 100, 15);
+    text-decoration: none;
+    padding: 10px;
+    font-size:large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.nav-item:hover{
+    background-color: rgb(161, 55, 55)
+}
+.body {
+    width: 60rem;
+    margin: auto;
+    font-size: 15px;
+}
+.ND1{
+    font-size: 25px;
+}
+.ND2{
+    font-size: 20px
+}
+.img1{
+    height: 600px;
+    width: 100%;
+}
+.img2{
+    height: 500px;
+}
+.heading1{
+    color: red;
+    text-align:center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.heading7{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button{
+    width: 10rem;
+    height: 3rem;
+    margin-bottom: 2rem;
+    font-size: 17px;
+    border-radius: 3rem;
+    background-color: rgb(217, 83, 21);
+    color: white;
+}
+.sign{
+    text-align:center;
+}
